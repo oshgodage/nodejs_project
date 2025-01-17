@@ -1,0 +1,3 @@
+Apollo simplifies GraphQL development for projects large and small. Whether connecting a single REST API or federating multiple data sources across an enterprise, Apollo's GraphOS Platform and suite of tools and SDKs help you
+build, secure, manage, 
+and scale your GraphQL APIs.

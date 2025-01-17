@@ -1,0 +1,9 @@
+
+---------Common properties of req---------
+req.method: HTTP method(e:g, GET, POST)
+req.url: The requested URL (e.g:/home)
+req.headers: The headers sent by the client
+req.on('data): For receiving the request body in chuncks
+req.on('end'): Indicates the end of the request body
+
+---------Common method of res-------------
